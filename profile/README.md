@@ -11,7 +11,7 @@ emulator keeps its own name.
 
 | Emulator | Console | Highlights |
 |---|---|---|
-| **[ZiGBA](https://github.com/evenfall-emu/zigba)** | Game Boy Advance | Cycle-aware core in Zig · original HLE BIOS · [`@evenfall/gba`](https://www.npmjs.com/package/@evenfall/gba) WebAssembly SDK · [play in the browser](https://zigba.ursid.ai) |
+| **[ZiGBA](https://github.com/evenfall-emu/zigba)** | Game Boy Advance | Cycle-aware core in Zig · original HLE BIOS · [`@evenfall/gba`](https://www.npmjs.com/package/@evenfall/gba) WebAssembly SDK · [play in the browser](https://play.evenfall-emu.org) |
 
 ### Principles
 
