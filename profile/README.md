@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Evenfall: open-source emulators" width="768">
+  <img src="banner.png" alt="Evenfall" width="100%">
 </p>
 
 Evenfall builds open-source emulators for classic consoles. Each one is written
