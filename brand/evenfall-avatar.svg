@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 40 40" shape-rendering="crispEdges" role="img" aria-label="evenfall">
+  <title>evenfall</title>
+  <rect width="40" height="40" fill="#032F5A"/>
+  <g transform="translate(4 3)">
+    <path fill="#F5AA82" d="M12 5h8v2h4v2h2v3h2v3h2v4h-6v-2h-4v-2h-8v2H8v2H2v-4h2v-3h2V9h2V7h4Z"/>
+    <path fill="#8CDBBE" d="M2 21h28v3H2zM8 27h16v3H8z"/>
+  </g>
+</svg>
